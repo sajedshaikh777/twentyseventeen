@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sajedshaikh777/twentyseventeen.git"
+    "url": "git+https://github.com/sajedshaikh777/blanktheme.git
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sajedshaikh777/twentyseventeen/issues"
+    "url": "https://github.com/sajedshaikh777/blanktheme.git"
   },
-  "homepage": "https://github.com/sajedshaikh777/twentyseventeen#readme",
+  "homepage": "https://github.com/sajedshaikh777/blanktheme#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2"
